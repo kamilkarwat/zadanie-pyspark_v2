@@ -1,0 +1,22 @@
+WARNING:root:Wrong raw data name, loaded default one from raw_data_files
+WARNING:root:Wrong raw data name, loaded default one from raw_data_files
+2023-08-28 11:30:35,422 Wrong raw data name, loaded default one from raw_data_files
+2023-08-28 11:30:43,649 Wrong raw data name, loaded default one from raw_data_files
+2023-08-28 11:35:47,381 Wrong column names inside of file
+2023-08-28 11:35:58,472 Wrong raw data name, loaded default one from raw_data_files
+2023-08-28 11:38:39,560 WARNING Wrong raw data name, loaded default one from raw_data_files
+2023-08-28 11:39:14,751 ERROR Wrong column names inside of file
+2023-08-28 15:11:41,749 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-28 15:17:35,807 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-28 15:23:17,837 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-28 15:23:25,789 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-28 15:43:43,931 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-28 15:43:50,219 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-29 13:13:50,918 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-29 13:13:59,018 WARNING Wrong raw data name, loaded default one from raw_data_files directory
+2023-08-29 13:58:31,330 ERROR Wrong column names inside of file
+2023-08-29 14:03:02,557 ERROR Wrong column names inside of file
+2023-08-29 14:04:55,897 ERROR Wrong column names inside of file
+2023-08-29 14:07:15,565 ERROR Wrong column names inside of file
+2023-08-29 14:08:53,782 ERROR Wrong column names inside of file
+2023-08-29 14:10:19,612 ERROR Wrong column names inside of file
